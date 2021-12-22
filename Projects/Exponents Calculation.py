@@ -1,4 +1,4 @@
-def exp (il, el, ol, e, ni= 1, c=1):
+def exp (il, el, ol, e, ni=1, c=1):
     il = []
     ol = []
     el = []
