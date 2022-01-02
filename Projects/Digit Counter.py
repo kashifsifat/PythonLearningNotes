@@ -10,7 +10,7 @@ cf = cr + 1
 
 s = []
 for i in range (f, cf):
-    k = str(i)
+    k = str (i)
     s.append (k)
     
 #print (s)
@@ -26,5 +26,5 @@ for i in s:
 #print (svl)
 #Used for checking whether the splitted characters are getting added to a set properly.
 
-print(svl.count(cov))
+print (svl.count (cov))
 #Printing the final result.
