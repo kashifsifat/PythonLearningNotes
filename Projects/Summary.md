@@ -12,6 +12,8 @@
 
 **GPA Counter.py** is for calculating GPA of HSC examination at least up to 2013 batch. However, some tweaks can be done to cope up with changes.
 
+**Mini Calculator.py** is a mini calculator which can do some basic operations based on user inputs. Also used input validation and try...except.
+
 **NATO Phonetic Alphabet Converter.py** converts inputs to NATO Phonetic Alphabet.
 
 **PNZOEP.py** can be used to get informed about whether a given number is positive or negative or zero, odd or even, prime or non-prime.
