@@ -9,4 +9,4 @@ else:
     print ("Invalid Input!")
     
 # Alternative implementation:
-print ((n ** 2 - n) / 2)
+print ("Handshakes:", (n ** 2 - n) / 2)
