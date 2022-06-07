@@ -20,6 +20,8 @@
 
 **PNZOEP.py** can be used to get informed about whether a given number is positive or negative or zero, odd or even, prime or non-prime.
 
+**PhoneTrackingProject.ipynb** can be used to get information about phone numbers. This project was from '08. BYLCx - 01' course.
+
 **Prime Number Checker.py** is to check whether a given number is prime or not.
 
 **Prime Number Generator with Count, Summation & Average.py** can be used to get all prime numbers, their count, sum and average in a given range.
