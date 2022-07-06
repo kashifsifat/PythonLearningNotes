@@ -6,7 +6,7 @@ f = int (input ("From (inclusive): "))
 cr = int (input ("To (inclusive): "))
 cov = str (input ("Count what?: "))
 cf = cr + 1
-#Used f for floor, cr for ceiling raw, cov for counting value, cf for ceiling final
+#Used f for floor, cr for ceiling raw, cov for counting value, cf for ceiling final.
 
 s = []
 for i in range (f, cf):
@@ -24,7 +24,7 @@ for i in s:
         svl.append (m)
 
 #print (svl)
-#Used for checking whether the splitted characters are getting added to a set properly.
+#Used for checking whether the splitted characters are getting added to a list properly.
 
 print (svl.count (cov))
 #Printing the final result.
