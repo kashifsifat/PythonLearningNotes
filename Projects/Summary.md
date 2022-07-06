@@ -6,7 +6,11 @@
 
 **Digit Counter.py** can be used for counting how many times a digit appears in a given range.
 
+**Dividable finder.py** can be used for getting the answer to the question like: "Which number(s) are dividable with x from y to z?"
+
 **Exponents Calculation.py** can be used for continuously calculating the exponent values of given numbers. 
+
+**Factors finder.py** can be used to get the factors and total count of the factors of a given integer.
 
 **Function for Basic Calculation - [SUM, AVG, MIN, MAX, COUNT, SORT].py** can be used as a function to do the things mentioned in the name.
 
