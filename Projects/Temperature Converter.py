@@ -1,5 +1,6 @@
 # Formula: C/5 = (F-32)/9 = (K-273.15)/5
 
+# Using a while loop to keep the converter running continously
 cr = 1
 while cr > 0:
 
@@ -49,6 +50,7 @@ while cr > 0:
     # Below portion is to return the input as output if both of the units are same
     if cf == ct:
         r = v
+
 
     print (r)
     print (" ")
