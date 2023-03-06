@@ -46,5 +46,9 @@ while cr > 0:
         r = str (r_temp)+"°"
 
 
+    # Below portion is to return the input as output if both of the units are same
+    if cf == ct:
+        r = v
+
     print (r)
     print (" ")
