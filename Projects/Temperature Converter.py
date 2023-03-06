@@ -47,3 +47,4 @@ while cr > 0:
 
 
     print (r)
+    print (" ")
