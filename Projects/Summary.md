@@ -43,3 +43,5 @@
 **Prime Number Generator.py** can be used to get all prime numbers in a given range.
 
 **Table Counter.py** can be used for generating a table of given input.
+
+**Temperature Converter.py** can be used to convert temperature among Celsius, Fahrenheit and Kelvin scales.
