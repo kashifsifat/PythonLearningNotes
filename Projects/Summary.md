@@ -4,6 +4,8 @@
 
 **CSAD.py** sums the digits of a given number.
 
+**Continous Contribution Calculator.py** can be used to see the impact of contribution. Please, check the multi-line comment inside the program to know more.
+
 **Digit Counter.py** can be used for counting how many times a digit appears in a given range.
 
 **Dividable finder.py** can be used for getting the answer to the question like: "Which number(s) are dividable with x from y to z?"
