@@ -109,8 +109,8 @@ print(sampleTuple[2])
 #Tuple 01
 sampleTuple = ("apple", "banana", "mango")
 print(sampleTuple)
-simpleTuple (1) = "b" #Program breaks at this line.
-#This program outputs: "SyntaxError: can't assign to function call"
+sampleTuple[1] = "b" #Program breaks at this line.
+#This program outputs: "TypeError: 'tuple' object does not support item assignment"
 #Tuple is like a list. But, here it is not possible to manipulate items.
 
 #String 00
